@@ -2,7 +2,7 @@
   "name": "goose-track-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mikiua.github.io/GooseTrack-frontend/",
+  "homepage": "https://goitstudentsworks.github.io/react_node_fs_63_MikiUA/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
