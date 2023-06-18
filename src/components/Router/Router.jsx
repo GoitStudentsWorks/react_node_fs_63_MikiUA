@@ -19,7 +19,7 @@ const NotFound = lazy(() => import('../../pages/NotFound/NotFound'));
 
 export const Router = () => {
   return (
-    <BrowserRouter basename="/GooseTrack-frontend">
+    <BrowserRouter basename="/react_node_fs_63_MikiUA">
       <Suspense fallback={<Loader />}>
         <Routes>
           <Route path="/themeTest" element={<ThemeTestPage />} />
